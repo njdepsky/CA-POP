@@ -13,7 +13,7 @@ Not-Hispanic or Latino, Black or African American alone (P002006) | NHBLACK
 Not-Hispanic or Latino, American Indian and Alaska Native alone (P002007) | NHAMIND
 Not-Hispanic or Latino, Asian alone (P002008) | NHASIAN
 Not-Hispanic or Latino, Native Hawaiian and Other Pacific Islander alone (P002009) | NHHIPI
-_ | --
+\  | --
 _**OTHER/MULTI grid created from sum of:**_ | OTHERMULTI
 Not-Hispanic or Latino, Some Other Race alone (P002010) | a
 Not-Hispanic or Latino, Population of two or more races (P002011) | a
