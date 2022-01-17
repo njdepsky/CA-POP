@@ -14,9 +14,9 @@ Not-Hispanic or Latino, American Indian and Alaska Native alone (P002007) | NHAM
 Not-Hispanic or Latino, Asian alone (P002008) | NHASIAN
 Not-Hispanic or Latino, Native Hawaiian and Other Pacific Islander alone (P002009) | NHHIPI
 --  | --
-_**OTHER/MULTI grid created from sum of**_ | OTHERMULTI
+_**OTHER/MULTI grid created from sum of:**_ | OTHERMULTI
 Not-Hispanic or Latino, Some Other Race alone (P002010) | --
 Not-Hispanic or Latino, Population of two or more races (P002011) | --
 --  | --
-_**MINORS grid (population < 18 years old) created from**_ | MINORS
+_**MINORS grid (population < 18 years old) created from:**_ | MINORS
 Population of adults (P003001) (subtracted from P002001) | --
