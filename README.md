@@ -5,7 +5,7 @@ The GeoTIFF raster grids in this repository represent the CA-POP databased, whic
 ## Gridded Population Variables 
 2020 Census Block Level Population Totals Obtained (P.L. 94-171 Code)  | CA-POP Grid Name
 ---------------------------------------------------------------------- | -------------
-**Grids created for each variable:**
+_**Grids created for each variable:**_
 Population (P002001) | TOTAL
 Hispanic or Latino (P002002) | HISP
 Not-Hispanic or Latino, White alone (P002005) | NHWHITE
@@ -14,6 +14,6 @@ Not-Hispanic or Latino, American Indian and Alaska Native alone (P002007) | NHAM
 Not-Hispanic or Latino, Asian alone (P002008) | NHASIAN
 Not-Hispanic or Latino, Native Hawaiian and Other Pacific Islander alone (P002009) | NHHIPI
  | 
-**OTHER/MULTI grid created from sum of:** | OTHERMULTI
-Not-Hispanic or Latino, Some Other Race alone (P002010)
-Not-Hispanic or Latino, Population of two or more races (P002011)
+_**OTHER/MULTI grid created from sum of:**_ | OTHERMULTI
+Not-Hispanic or Latino, Some Other Race alone (P002010) | 
+Not-Hispanic or Latino, Population of two or more races (P002011) | 
