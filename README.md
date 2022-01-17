@@ -1,1 +1,15 @@
 # CA-POP
+
+The GeoTIFF raster grids in this repository represent the CA-POP databased, which consists of statewide population layers of California. These layers were constructed using dasymetric mapping techniques to produce 100m x 100m estimates for 9 variables from the 2020 United States Census (P.L. 94-171 Resdistricting Summary File), using census block estimates as the population 'source zones', as described in **_Depsky et al. 2022_** (_submitted, under review_).
+
+## Gridded Population Variables 
+2020 Census Block Level Population Totals Obtained (P.L. 94-171 Code)  | CA-POP Grid Name
+---------------------------------------------------------------------- | -------------
+**Grids created for each variable:**__
+Population (P002001) 
+Hispanic or Latino (P002002)
+Not-Hispanic or Latino, White alone (P002005)
+Not-Hispanic or Latino, Black or African American alone (P002006)
+Not-Hispanic or Latino, American Indian and Alaska Native alone (P002007)
+Not-Hispanic or Latino, Asian alone (P002008)
+Not-Hispanic or Latino, Native Hawaiian and Other Pacific Islander alone (P002009) | Content Cell
