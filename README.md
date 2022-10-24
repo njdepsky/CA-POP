@@ -13,6 +13,9 @@ Hispanic or Latino (P002002) | HISP
 Not-Hispanic or Latino, White alone (P002005) | NHWHITE
 Not-Hispanic or Latino, Black or African American alone (P002006) | NHBLACK
 Not-Hispanic or Latino, American Indian and Alaska Native alone (P002007) | NHAMIND
+American Indian and Alaska Native alone (Hispanic/Latino and Not-Hispanic/Latino) (P001005) | AMIND_ALONE
+American Indian and Alaska Native alone or in any combination of multiple races (Hispanic/Latino and Not-Hispanic/Latino)* | AMIND_COMBO
+Not-Hispanic or Latino, American Indian and Alaska Native alone (P002007) | NHAMIND
 Not-Hispanic or Latino, Asian alone (P002008) | NHASIAN
 Not-Hispanic or Latino, Native Hawaiian and Other Pacific Islander alone (P002009) | NHHIPI
 --  | --
