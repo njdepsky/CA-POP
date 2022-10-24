@@ -1,6 +1,6 @@
 # CA-POP
 
-The GeoTIFF raster grids in this repository represent the CA-POP databased, which consists of statewide population layers of California. These layers were constructed using dasymetric mapping techniques to produce 100m x 100m estimates for 9 variables from the 2020 United States Census (P.L. 94-171 Resdistricting Summary File), using census block estimates as the population 'source zones', as described in **_Depsky et al. 2022_** (_submitted, under review_).
+The GeoTIFF raster grids in this repository represent the CA-POP databased, which consists of statewide population layers of California. These layers were constructed using dasymetric mapping techniques to produce 100m x 100m estimates for 9 variables from the 2020 United States Census (P.L. 94-171 Resdistricting Summary File), using census block estimates as the population 'source zones', as described in **_Depsky et al. 2022_** (https://doi.org/10.1371/journal.pone.0270746).
 
 ## Gridded Population Variables 
 2020 Census Block Level Population Totals Obtained (P.L. 94-171 Code)  | CA-POP Grid Name
